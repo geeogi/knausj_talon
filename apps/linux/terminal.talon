@@ -46,5 +46,5 @@ action(app.tab_previous):
   key(ctrl-pageup)
 action(app.window_open):
   key(ctrl-shift-n)
-go tab <number>:
+navigate <number>:
   key("alt-{number}")
