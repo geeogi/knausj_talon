@@ -1,6 +1,6 @@
 tag: user.mouse_grid_enabled
 -
-M grid:
+matrix:
     user.grid_activate()
 
 grid win:

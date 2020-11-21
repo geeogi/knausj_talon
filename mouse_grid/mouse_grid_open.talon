@@ -2,7 +2,7 @@ tag: user.mouse_grid_showing
 -
 <user.number_key>:
     user.grid_narrow(number_key)
-grid off:
+matrix off:
     user.grid_close()
 
 grid reset:
